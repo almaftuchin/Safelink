@@ -1,2 +1,2 @@
-# Safelink-v1
-## https://www.almaftuchin.com
+# Sample Safelink
+## https://go.almaftuchin.com
